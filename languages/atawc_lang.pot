@@ -1,0 +1,264 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WooCommerce Popup Cart + ajax\n"
+"POT-Creation-Date: 2019-03-28 11:47+0600\n"
+"PO-Revision-Date: 2019-03-28 11:46+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: woocommerce-popup-cart+ajax.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/class-admin.php:68
+msgid "Choose an image"
+msgstr ""
+
+#: inc/class-admin.php:69
+msgid "Use image"
+msgstr ""
+
+#: inc/class-admin.php:107
+msgid "WooCommerce Smart Popup Cart "
+msgstr ""
+
+#: inc/class-admin.php:151
+msgid "Show up after AJAX add to cart"
+msgstr ""
+
+#: inc/class-admin.php:158 inc/class-admin.php:177 inc/class-admin.php:278
+#: inc/class-admin.php:295 inc/class-admin.php:328 inc/class-admin.php:345
+#: inc/class-admin.php:362 inc/class-admin.php:414 inc/class-admin.php:431
+msgid "Yes"
+msgstr ""
+
+#: inc/class-admin.php:159 inc/class-admin.php:178 inc/class-admin.php:279
+#: inc/class-admin.php:296 inc/class-admin.php:329 inc/class-admin.php:346
+#: inc/class-admin.php:363 inc/class-admin.php:415 inc/class-admin.php:432
+msgid "No"
+msgstr ""
+
+#: inc/class-admin.php:162
+msgid ""
+"The mini cart will be show up immediately after whenever click to AJAX Add "
+"to cart buttons (AJAX enable)? See <a href=\""
+msgstr ""
+
+#: inc/class-admin.php:170
+msgid "Show up after normal add to cart"
+msgstr ""
+
+#: inc/class-admin.php:181
+msgid ""
+"The mini cart will be show up immediately after whenever click to normal Add "
+"to cart buttons (AJAX is not enable) or Add to cart button in single product "
+"page?"
+msgstr ""
+
+#: inc/class-admin.php:187
+msgid "Manual show up button"
+msgstr ""
+
+#: inc/class-admin.php:194
+msgid ""
+"Fill class or id of the button, when click to this button the mini cart\n"
+"\t\t\t\t\t\t\twill be show up.<br/>Example <code>.mini-cart-btn</code> or "
+"<code>#mini-cart-btn</code>"
+msgstr ""
+
+#: inc/class-admin.php:202
+msgid "Fly Cart Showing Position"
+msgstr ""
+
+#: inc/class-admin.php:209
+msgid "01 - Page Right"
+msgstr ""
+
+#: inc/class-admin.php:210
+msgid "02 - Page Left"
+msgstr ""
+
+#: inc/class-admin.php:211
+msgid "03 - Page Top"
+msgstr ""
+
+#: inc/class-admin.php:212
+msgid "04 - Page Bottom"
+msgstr ""
+
+#: inc/class-admin.php:213
+msgid "05 - Page Center"
+msgstr ""
+
+#: inc/class-admin.php:222
+msgid "Primary colors "
+msgstr ""
+
+#: inc/class-admin.php:234
+msgid "Secondary color "
+msgstr ""
+
+#: inc/class-admin.php:246
+msgid "Background color "
+msgstr ""
+
+#: inc/class-admin.php:259
+msgid "Background image "
+msgstr ""
+
+#: inc/class-admin.php:271
+msgid "Show attributes of variation product"
+msgstr ""
+
+#: inc/class-admin.php:282
+msgid "Show attributes of variation product under product title on the list?"
+msgstr ""
+
+#: inc/class-admin.php:288
+msgid "Show total price"
+msgstr ""
+
+#: inc/class-admin.php:304
+msgid "Show action buttons"
+msgstr ""
+
+#: inc/class-admin.php:311
+msgid "Cart & Checkout"
+msgstr ""
+
+#: inc/class-admin.php:312
+msgid "Cart only"
+msgstr ""
+
+#: inc/class-admin.php:313
+msgid "Checkout only"
+msgstr ""
+
+#: inc/class-admin.php:321
+msgid "Show continue shopping"
+msgstr ""
+
+#: inc/class-admin.php:332
+msgid "Show the continue shopping button at the end of mini-cart?"
+msgstr ""
+
+#: inc/class-admin.php:338
+msgid "Reload the cart on page load"
+msgstr ""
+
+#: inc/class-admin.php:349
+msgid ""
+"The cart will be reloaded when opening the page? If you use the cache for "
+"your site, please turn on this option."
+msgstr ""
+
+#: inc/class-admin.php:355
+msgid "Show cart button"
+msgstr ""
+
+#: inc/class-admin.php:371 inc/class-admin.php:392
+msgid "Cart button position"
+msgstr ""
+
+#: inc/class-admin.php:378
+msgid "Top Left"
+msgstr ""
+
+#: inc/class-admin.php:379
+msgid "Top Right"
+msgstr ""
+
+#: inc/class-admin.php:380
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/class-admin.php:381
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/class-admin.php:407
+msgid "Button Hide if empty"
+msgstr ""
+
+#: inc/class-admin.php:418
+msgid "Hide the cart button if have no product in the cart?"
+msgstr ""
+
+#: inc/class-admin.php:424
+msgid "Hide in Cart & Checkout page"
+msgstr ""
+
+#: inc/class-admin.php:435
+msgid "Hide the cart button in the Cart & Checkout page?"
+msgstr ""
+
+#: inc/class-admin.php:454
+msgid "Upload image"
+msgstr ""
+
+#: inc/class-admin.php:457
+msgid "Remove image"
+msgstr ""
+
+#: inc/class-frontend.php:144 inc/class-frontend.php:237
+#: inc/class-frontend.php:251
+msgid "Permissions check failed!"
+msgstr ""
+
+#: inc/class-frontend.php:207
+msgid "Total"
+msgstr ""
+
+#: inc/class-frontend.php:212 inc/class-frontend.php:216
+msgid "Cart"
+msgstr ""
+
+#: inc/class-frontend.php:212 inc/class-frontend.php:219
+msgid "Checkout"
+msgstr ""
+
+#: inc/class-frontend.php:223
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/class-frontend.php:227
+msgid "Have no product in the cart!"
+msgstr ""
+
+#: woocommerce-popup-cart+ajax.php:106
+msgid ""
+"WooCommerce Popup Cart + ajax is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Popup Cart + ajax"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://athemeart.com/downloads/woocomm-popup-cart-ajax/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Popup Cart Lite for WooCommerce for WooCommerce plugin that displays popup "
+"cart for add to cart action."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "aThemeArt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://athemeart.com/"
+msgstr ""
