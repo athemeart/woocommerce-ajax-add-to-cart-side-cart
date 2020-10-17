@@ -3,14 +3,14 @@
 Plugin Name: WooCommerce Modal Fly Cart + Ajax add to cart 
 Plugin URI: https://athemeart.com/downloads/woocommerce-popup-cart-ajax/
 Description: WooCommerce Modal Fly Cart + Ajax add to cart.
-Version: 1.4.2
+Version: 1.4.3
 Author: aThemeArt
 Author URI: http://athemeart.com/
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tested up to: 5.4.9
+Tested up to: 5.5.5
 WC requires at least: 2.6
-WC tested up to: 4.4.0
+WC tested up to: 4.5.5
 */
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
@@ -86,6 +86,7 @@ final class ATA_WC_Smart_Popup_Cart {
 	public function load_textdomain() {
 		load_plugin_textdomain( 'atawc_lang', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 	}
+
 
 }
 
