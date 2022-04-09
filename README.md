@@ -1,4 +1,5 @@
-# WooCommerce ajax add to cart /  side cart
+# Side Cart Woocommerce (Ajax) - by aThemeArt
+
 
 
 <a href="https://athemeart.com/downloads/woocommerce-popup-cart-ajax/" target="_blank"><img src="https://athemeart.com/wp-content/uploads/edd/2020/01/banner-772x250-1.jpg" alt="woocommerce side cart"></a>
